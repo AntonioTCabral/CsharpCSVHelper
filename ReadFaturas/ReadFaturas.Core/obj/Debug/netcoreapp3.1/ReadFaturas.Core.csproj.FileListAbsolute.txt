@@ -1,0 +1,8 @@
+C:\vericode\ReadFaturas\ReadFaturas.Core\bin\Debug\netcoreapp3.1\ReadFaturas.Core.deps.json
+C:\vericode\ReadFaturas\ReadFaturas.Core\bin\Debug\netcoreapp3.1\ReadFaturas.Core.dll
+C:\vericode\ReadFaturas\ReadFaturas.Core\bin\Debug\netcoreapp3.1\ReadFaturas.Core.pdb
+C:\vericode\ReadFaturas\ReadFaturas.Core\obj\Debug\netcoreapp3.1\ReadFaturas.Core.AssemblyInfoInputs.cache
+C:\vericode\ReadFaturas\ReadFaturas.Core\obj\Debug\netcoreapp3.1\ReadFaturas.Core.AssemblyInfo.cs
+C:\vericode\ReadFaturas\ReadFaturas.Core\obj\Debug\netcoreapp3.1\ReadFaturas.Core.csproj.CoreCompileInputs.cache
+C:\vericode\ReadFaturas\ReadFaturas.Core\obj\Debug\netcoreapp3.1\ReadFaturas.Core.dll
+C:\vericode\ReadFaturas\ReadFaturas.Core\obj\Debug\netcoreapp3.1\ReadFaturas.Core.pdb
